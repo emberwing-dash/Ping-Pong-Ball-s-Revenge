@@ -5,6 +5,8 @@ Its a 3 player game
 Two players control paddles and 3rd player controls ball
 
 
+
+
 Ball control :
 
 Left Click -> spin
